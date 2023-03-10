@@ -27,6 +27,8 @@ Checkout the tutorial on [Youtube](https://www.youtube.com/watch?v=_OwJV2xL8M8)
   
 ## Demo
 
+<img width="1506" alt="Screenshot 2023-03-10 at 10 20 01 AM" src="https://user-images.githubusercontent.com/111208223/224369554-1b7f84ee-6875-4c06-80fd-dafd15a7a23f.png">
+
 
 ## License
 N/A
